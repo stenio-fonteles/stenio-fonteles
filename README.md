@@ -10,7 +10,7 @@ Me chamo Stênio, moro no Ceará, sou apaixonado por programação e por convers
 
 ⚙ Vejo que esse é o futuro do mundo e eu quero ajudar a construir. 
 
-<img src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" width="100" height="auto"/>
+<img src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif"/>
 
 
 
