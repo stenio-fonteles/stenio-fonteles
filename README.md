@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Ferramentas e Tecnologias
 
-<img src="https://tenor.com/view/dev_animado-gif-25018018" width="40" height="40"/>
+<img src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" width="40" height="40"/>
 
 ![Snake animation](https://github.com/stenio-fonteles/stenio-fonteles/blob/output/github-contribution-grid-snake.svg)
 
