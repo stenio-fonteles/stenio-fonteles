@@ -12,12 +12,5 @@ Me chamo Stênio, moro no Ceará, sou apaixonado por programação e por convers
 
 <img src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif"/>
 
-
-
-          
-          
-          
-          
-
 ![Snake animation](https://github.com/stenio-fonteles/stenio-fonteles/blob/output/github-contribution-grid-snake.svg)
 
