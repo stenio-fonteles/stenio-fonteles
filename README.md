@@ -3,6 +3,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
+![Snake animation](https://github.com/stenio-fonteles/stenio-fonteles/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **stenio-fonteles/stenio-fonteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
