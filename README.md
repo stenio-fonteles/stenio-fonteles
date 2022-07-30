@@ -11,7 +11,7 @@ atualmente tenho como projeto principal MovieCity, uma plataforma de stream
   {(Hooks do react; React Router Dom) =>  ate o momento()}
 </p>
 
-<img src="./github"/>
+<img src="./github.PNG"/>
 
 
 
