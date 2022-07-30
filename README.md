@@ -11,6 +11,8 @@ atualmente tenho como projeto principal MovieCity, uma plataforma de stream
   {(Hooks do react; React Router Dom) =>  ate o momento()}
 </p>
 
+<img src="./github"/>
+
 
 
 ![Snake animation](https://github.com/stenio-fonteles/stenio-fonteles/blob/output/github-contribution-grid-snake.svg)
