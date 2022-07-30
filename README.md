@@ -1,16 +1,20 @@
-## Olá, sou Stênio Sousa, estudante de Ciência da computação e amante da tecnologia 👋
-### Ferramentas e Tecnologias estudadas atualmente
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"  />
+## Olá, sou Stênio Sousa, Estagiário de DevOps e Graduando em Ciência da computação 👋
 
 #### SOBRE MIM
-Me chamo Stênio, moro no Ceará, sou apaixonado por programação e por conversa cabeça, atualmente tenho como projeto principal COSTS, um gerenciador de projetos, feito com ReactJs.
+Moro no Ceará, sou apaixonado por programação e por conversa cabeça, 
+atualmente tenho como projeto principal MovieCity, uma plataforma de stream
 
-💻 Além de aluno da estácio no curso de Ciência da computação, sou aluno do YouTube, da Digital Innovation One e muitas outras plataformas que uso para estudar.
+## Tecnologias que ultilizei
+<img src="https://alonza.com.br/wp-content/uploads/2021/07/react-native.png" width="40" height="40"/>
+<img src="https://www.styled-components.com/atom.png" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/8453104/40242014-b95993a8-5abc-11e8-8943-02d06d3266bc.png" width="40" height="40"/>
+<img src="https://miro.medium.com/max/1000/1*Noc7VIpiRX4DOTvMOrY38w.png" width="40" height="40"/>
+<p>
+  Me aprofundei em consumir todo o poder que React me proporciona:
+  {(Hooks do react; React Router Dom) =>  ate o momento()}
+</p>
 
-⚙ Vejo que esse é o futuro do mundo e eu quero ajudar a construir. 
 
-<img src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif"/>
 
 ![Snake animation](https://github.com/stenio-fonteles/stenio-fonteles/blob/output/github-contribution-grid-snake.svg)
 
