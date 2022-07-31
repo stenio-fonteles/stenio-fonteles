@@ -9,7 +9,7 @@ atualmente tenho como projeto principal MovieCity, uma plataforma de stream
 <p>
   Me aprofundei em consumir todo o poder que React me proporciona:
   {(Hooks do react; React Router Dom) =>  ate o momento()}
-  Os conteúdos de mídia são consumidor de uma API;
+  Os conteúdos de mídia são consumidos de uma API;
 </p>
 
 <img src="./github.PNG"/>
