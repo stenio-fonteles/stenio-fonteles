@@ -12,7 +12,7 @@ atualmente tenho como projeto principal MovieCity, uma plataforma de stream
   Os conteúdos de mídia são consumidos de uma API;
 </p>
 
-<img src="./giihub.PNG"/>
+<img src="./github.PNG"/>
 
 
 
